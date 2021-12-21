@@ -7,3 +7,4 @@
 - Google Colab 사용
 - YOLOv5 예측
 - 데이터셋의 DCM 파일을 JPG로 변환 후 사용 image_size = 640
+- submission.csv 파일 제출하기 전 Test 이미지 예측까지의 내용입니다.
